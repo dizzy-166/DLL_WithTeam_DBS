@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DLL_WithTeam_DBS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12c64e22f890da9cef3562017adb7cd50ecdc46f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50da3733ed489846a3e5ba1354c789818c6a9431")]
 [assembly: System.Reflection.AssemblyProductAttribute("DLL_WithTeam_DBS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DLL_WithTeam_DBS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

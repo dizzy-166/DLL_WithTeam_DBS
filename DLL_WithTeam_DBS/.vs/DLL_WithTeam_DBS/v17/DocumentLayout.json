@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sibrikov\\DLL_Sistema_kontrolya_versiy\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\",
+  "WorkspaceRootPath": "D:\\Karpov\\CS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42D26E58-03E8-4363-8820-599087092F45}|DLL_WithTeam_DBS\\DLL_WithTeam_DBS.csproj|d:\\sibrikov\\dll_sistema_kontrolya_versiy\\dll_withteam_dbs\\dll_withteam_dbs\\dll_withteam_dbs\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42D26E58-03E8-4363-8820-599087092F45}|DLL_WithTeam_DBS\\DLL_WithTeam_DBS.csproj|d:\\karpov\\cs\\dll_withteam_dbs\\dll_withteam_dbs\\dll_withteam_dbs\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D26E58-03E8-4363-8820-599087092F45}|DLL_WithTeam_DBS\\DLL_WithTeam_DBS.csproj|solutionrelative:dll_withteam_dbs\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Square.cs",
-              "DocumentMoniker": "D:\\Sibrikov\\DLL_Sistema_kontrolya_versiy\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\Square.cs",
+              "DocumentMoniker": "D:\\Karpov\\CS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\Square.cs",
               "RelativeDocumentMoniker": "DLL_WithTeam_DBS\\Square.cs",
-              "ToolTip": "D:\\Sibrikov\\DLL_Sistema_kontrolya_versiy\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\Square.cs",
+              "ToolTip": "D:\\Karpov\\CS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\Square.cs",
               "RelativeToolTip": "DLL_WithTeam_DBS\\Square.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
