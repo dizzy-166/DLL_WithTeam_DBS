@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\шероновдс\\.nuget\\packages\\": {},
+    "C:\\Users\\СибриковЕИ\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sheronov31P_mobilka\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS.csproj",
+      "projectUniqueName": "D:\\Sibrikov\\DLL_Sistema_kontrolya_versiy\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS.csproj",
       "projectName": "DLL_WithTeam_DBS",
-      "projectPath": "D:\\sheronov31P_mobilka\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS.csproj",
-      "packagesPath": "C:\\Users\\шероновдс\\.nuget\\packages\\",
-      "outputPath": "D:\\sheronov31P_mobilka\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\obj\\",
+      "projectPath": "D:\\Sibrikov\\DLL_Sistema_kontrolya_versiy\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS.csproj",
+      "packagesPath": "C:\\Users\\СибриковЕИ\\.nuget\\packages\\",
+      "outputPath": "D:\\Sibrikov\\DLL_Sistema_kontrolya_versiy\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\DLL_WithTeam_DBS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\шероновдс\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\СибриковЕИ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
